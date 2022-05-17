@@ -21,7 +21,7 @@
 #### JavaScript
 #### JQuery 
 #### Bootstrap 
-#### Sass 
+#### Scss 
 #### SessionStorage 
 #### SessionStorage 
 
